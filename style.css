@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: white;
 }
 
 .d-bloc button:hover {
@@ -326,7 +326,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
-    margin-right: 10%;
+    margin-right: 5%;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -776,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #1C1C1C!important;
+    color:white!important;
 }
 
 .btn-atomic-tangerine {
@@ -806,8 +806,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #3C4C80!important;
-    border-color: #3C4C80!important;
+    color: #BDC5E0!important;
+    border-color: #BDC5E0!important;
 }
 
 .bg-dots-bg {
